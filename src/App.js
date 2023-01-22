@@ -4,6 +4,7 @@ import AboutUs from './components/AboutUs';
 import TabPanel from './common/TabPanel';
 import Home from './components/Home';
 import ContactUs from './components/ContactUs';
+import Shop from './components/Shop';
 
 
 function App() {
@@ -32,7 +33,7 @@ function App() {
             <ContactUs />
         </TabPanel> 
         <TabPanel value={menuVal} index={3}>
-            Item four
+            <Shop />
         </TabPanel>    
       </div>
     </div>
