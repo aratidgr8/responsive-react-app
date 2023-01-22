@@ -10,7 +10,7 @@ function Shop() {
         <Typography  sx={{fontSize: "1.5rem", fontWeight: "bold", margin: "20px auto", textAlign: "center"}}>
         Game Of Thrones Characters Image Gallery
         </Typography>
-        <ImageList sx={{ width: 800, height: 450, border: "1px solid #ddd", borderRadius: "5px", padding:"10px", margin: "10px auto", boxShadow: "0 0 10px #eee" }} cols={3} variant="woven" rowHeight={164}>
+        <ImageList sx={{ width: "70%", height: 750, border: "1px solid #ddd", borderRadius: "5px", padding:"10px", margin: "10px auto", boxShadow: "0 0 10px #eee" }} cols={3} variant="woven" rowHeight={164}>
         {gotCharacters.map((char) => (
             <ImageListItem key={char.img}>
             <img
