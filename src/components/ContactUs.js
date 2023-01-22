@@ -1,7 +1,7 @@
 import React from 'react'
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
-import { type } from './constants';
+import { type } from '../common/constants';
 import MenuItem from '@mui/material/MenuItem';
 import { Button, Divider } from '@mui/material';
 
@@ -57,7 +57,7 @@ function ContactUs() {
         </TextField>        
         <TextField
           id="outlined-number"
-          label="Number of days"
+          label="Number of days watched"
           type="number"
           InputLabelProps={{
             shrink: true,

@@ -41,7 +41,7 @@ export default function RecipeReviewCard() {
         component="img"
         width="851"
         height="315"
-        image={require('./static/images/game-of-thrones.jpg')}
+        image={require('../static/images/game-of-thrones.jpg')}
         alt="Game of Thrones"
       />
       <CardContent>

@@ -1,9 +1,9 @@
 import React from 'react';  
-import Header from "./Header";
-import AboutUs from './AboutUs';
-import TabPanel from './TabPanel';
-import Home from './Home';
-import ContactUs from './ContactUs';
+import Header from "./common/Header";
+import AboutUs from './components/AboutUs';
+import TabPanel from './common/TabPanel';
+import Home from './components/Home';
+import ContactUs from './components/ContactUs';
 
 
 function App() {

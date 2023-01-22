@@ -2,10 +2,10 @@ import React, { useState } from 'react'
 import AppBar from '@mui/material/AppBar';
 import { Button, Grid, Tab, Tabs, Toolbar, Typography, useMediaQuery } from '@mui/material';
 import AbcIcon from '@mui/icons-material/Abc';
-import SearchInput from './SearchInput';
-import DrawerComp from './DrawerComp';
+import SearchInput from '../components/SearchInput';
+import DrawerComp from '../components/DrawerComp';
 import { useTheme } from '@mui/material/styles';
-import { mainMenu, hamburgerMenu } from './constants';
+import { mainMenu, hamburgerMenu } from '../common/constants';
 
 //Header Component with responsive menu
 function Header(props) {

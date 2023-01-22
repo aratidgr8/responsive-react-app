@@ -41,15 +41,15 @@ export function a11yProps(index) {
 export const type = [
     {
       value: 'quote',
-      label: 'Request a Quote',
+      label: 'Love the show',
     },
     {
       value: 'complaint',
-      label: 'Lodge a Complaint',
+      label: 'Hate the show',
     },
     {
       value: 'other',
-      label: 'Others',
+      label: 'Never watched',
     },
   ];
   

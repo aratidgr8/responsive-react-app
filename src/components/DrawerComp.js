@@ -1,5 +1,5 @@
 import { Drawer, IconButton, List, ListItemButton, ListItemIcon, ListItemText } from '@mui/material'
-import SearchInput from './SearchInput';
+import SearchInput from '../components/SearchInput';
 import MenuIcon from '@mui/icons-material/Menu';
 import React from 'react'
 import { useState } from 'react';
