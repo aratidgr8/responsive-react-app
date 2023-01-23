@@ -1,6 +1,7 @@
 import React from 'react';  
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
+import ImageListItemBar from '@mui/material/ImageListItemBar';
 import { Typography } from '@mui/material';
 import { gotCharacters } from '../common/constants';
 
@@ -19,6 +20,7 @@ function Shop() {
                 alt={char.title}
                 loading="lazy"                
             />
+            <ImageListItemBar position="below" title={char.title} sx={{ fontFamily: "Times New Roman", fontStyle: "italic", fontWeight: "bold" }} />
             </ImageListItem>
       ))}
     </ImageList>

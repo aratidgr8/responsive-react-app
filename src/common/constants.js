@@ -60,7 +60,7 @@ export const gotCharacters = [
   },
   {
     img: 'https://i.pinimg.com/564x/ec/a5/7c/eca57c69bfaa8ee8601026c223d5b755.jpg',
-    title: 'Khalessi',
+    title: 'Daenerys Targaryen',
   },
   {
     img: 'https://pyxis.nymag.com/v1/imgs/9eb/c1a/a838f7bffb25ed90a376864c85ae94c578-14-cersei-lannister.rsquare.w700.jpg',
@@ -100,6 +100,6 @@ export const gotCharacters = [
   },
   {
     img: 'https://upload.wikimedia.org/wikipedia/en/8/80/Melisandre-Carice_van_Houten.jpg',
-    title: 'Red Woman',
+    title: 'Melisandre',
   },
 ];
