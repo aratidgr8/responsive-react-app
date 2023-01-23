@@ -53,53 +53,63 @@ export const type = [
     },
   ];
   
-export const gotCharacters = [
-  {
-    img: 'https://media.gq-magazine.co.uk/photos/62ac38f82da9f5f89888eba9/4:3/w_888,h_666,c_limit/jon-snow-series-1200.jpeg',
-    title: 'Jon Snow',
-  },
-  {
-    img: 'https://i.pinimg.com/564x/ec/a5/7c/eca57c69bfaa8ee8601026c223d5b755.jpg',
-    title: 'Daenerys Targaryen',
-  },
-  {
-    img: 'https://pyxis.nymag.com/v1/imgs/9eb/c1a/a838f7bffb25ed90a376864c85ae94c578-14-cersei-lannister.rsquare.w700.jpg',
-    title: 'Cersei',
-  },
-  {
-    img: 'https://i.pinimg.com/originals/e7/50/6b/e7506b1d4af8a20fa03be01a5c876199.jpg',
-    title: 'Arya Stark',
-  },
-  {
-    img: 'https://i.pinimg.com/736x/ad/69/a9/ad69a986a10a20b54798a0c8c930edd7.jpg',
-    title: 'Sansa Stark',
-  },
-  {
-    img: 'https://i.pinimg.com/originals/e3/03/2b/e3032be1d7fd8e5757bee41cf8177c77.jpg',
-    title: 'Petyr Baelish',
-  },
-  {
-    img: 'https://media.gq-magazine.co.uk/photos/5d13ad5ecb85aa48c29458b8/1:1/w_1280,h_1280,c_limit/jamie-lannister-02-gq-10apr18_b.jpg',
-    title: 'Jamie Lannister',
-  },
-  {
-    img: 'https://static.toiimg.com/photo/62981209/.jpg',
-    title: 'Tyrion Lannister',
-  },
-  {
-    img: 'https://publish.purewow.net/wp-content/uploads/sites/2/2019/03/ned-stark-game-of-thrones-msn.jpg?resize=720%2C756',
-    title: 'Ned Stark',
-  },
-  {
-    img: 'https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2017/07/13060621/Theon-Greyjoy.jpg',
-    title: 'Theon Greyjoy',
-  },
-  {
-    img: 'https://cdn.vox-cdn.com/thumbor/NSNBKh-MCe-4eq99SFjorkcIEyI=/0x0:3937x2953/1400x1400/filters:focal(0x0:3937x2953):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/46221760/marg.0.0.jpg',
-    title: 'Marjorie Tyrell',
-  },
-  {
-    img: 'https://upload.wikimedia.org/wikipedia/en/8/80/Melisandre-Carice_van_Houten.jpg',
-    title: 'Melisandre',
-  },
-];
+  export const gotCharacters = [
+    {
+      img:
+        "https://media.gq-magazine.co.uk/photos/62ac38f82da9f5f89888eba9/4:3/w_888,h_666,c_limit/jon-snow-series-1200.jpeg",
+      title: "Jon Snow"
+    },
+    {
+      img:
+        "https://yt3.googleusercontent.com/ytc/AMLnZu-mDZinn-JjvaZbY8jdoSC1CHmZTFqUmSMMFvzNSg=s900-c-k-c0x00ffffff-no-rj",
+      title: "Daenerys Targaryen"
+    },
+    {
+      img:
+        "https://pyxis.nymag.com/v1/imgs/9eb/c1a/a838f7bffb25ed90a376864c85ae94c578-14-cersei-lannister.rsquare.w700.jpg",
+      title: "Cersei"
+    },
+    {
+      img:
+        "https://pyxis.nymag.com/v1/imgs/846/9bb/440e83edacba3579e42bb6ad20860b50b0-18-arya-stark.2x.rhorizontal.w700.jpg",
+      title: "Arya Stark"
+    },
+    {
+      img: "https://i.insider.com/5ce420e193a15232821d3084?width=700",
+      title: "Sansa Stark"
+    },
+    {
+      img:
+        "https://imgix.bustle.com/rehost/2016/9/13/6e8f96fe-ae33-4847-930c-f1a0c0fd0536.jpg?w=800&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2",
+      title: "Petyr Baelish"
+    },
+    {
+      img:
+        "https://media.gq-magazine.co.uk/photos/5d13ad5ecb85aa48c29458b8/1:1/w_1280,h_1280,c_limit/jamie-lannister-02-gq-10apr18_b.jpg",
+      title: "Jamie Lannister"
+    },
+    {
+      img: "https://static.toiimg.com/photo/62981209/.jpg",
+      title: "Tyrion Lannister"
+    },
+    {
+      img:
+        "https://publish.purewow.net/wp-content/uploads/sites/2/2019/03/ned-stark-game-of-thrones-msn.jpg?resize=720%2C756",
+      title: "Ned Stark"
+    },
+    {
+      img:
+        "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2017/07/13060621/Theon-Greyjoy.jpg",
+      title: "Theon Greyjoy"
+    },
+    {
+      img:
+        "https://cdn.vox-cdn.com/thumbor/NSNBKh-MCe-4eq99SFjorkcIEyI=/0x0:3937x2953/1400x1400/filters:focal(0x0:3937x2953):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/46221760/marg.0.0.jpg",
+      title: "Marjorie Tyrell"
+    },
+    {
+      img:
+        "https://upload.wikimedia.org/wikipedia/en/8/80/Melisandre-Carice_van_Houten.jpg",
+      title: "Melisandre"
+    }
+  ];
