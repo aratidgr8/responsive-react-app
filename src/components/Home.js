@@ -43,6 +43,9 @@ export default function RecipeReviewCard() {
         height="315"
         image={require('../static/images/game-of-thrones.jpg')}
         alt="Game of Thrones"
+        sx={{
+          width: "100%", height: "100%", objectFit: "cover", overflow: "hidden"
+        }}
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">

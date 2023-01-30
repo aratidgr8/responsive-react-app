@@ -31,7 +31,7 @@ function Header(props) {
                         isMatch ? (
                             <>
                                 {/* Drawer Responsive */}
-                                <DrawerComp menu={hamburgerMenu} />
+                                <DrawerComp menu={hamburgerMenu} sendDataToParent={props.sendDataToParent} />
                             </>
                         ) : (
                             <>
