@@ -1,0 +1,8 @@
+# Set ownership by path or file pattern
+
+/src/ @aratidgr8
+/public/ @aratidgr8
+package.json @aratidgr8
+package-lock.json @aratidgr8
+.gitignore @aratidgr8
+README.md @aratidgr8
